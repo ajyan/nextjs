@@ -1,1 +1,1 @@
-This is a simple blogging app with server site rendering using Next.js. It is deployed to Vercel at this [link]https://nextjs-vert-tau.vercel.app/
+This is a simple blogging app with server site rendering using Next.js. It is deployed to Vercel at this (https://nextjs-vert-tau.vercel.app/)
