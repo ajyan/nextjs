@@ -1,1 +1,1 @@
-This is a starter template for [Learn Next.js](https://nextjs.org/learn).
+This is a simple blogging app with server site rendering using Next.js. It is deployed to Vercel at this [link]https://nextjs-vert-tau.vercel.app/
